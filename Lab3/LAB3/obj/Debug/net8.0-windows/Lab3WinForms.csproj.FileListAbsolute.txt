@@ -1,0 +1,16 @@
+D:\Work\C#\TI\Lab3\LAB3\bin\Debug\net8.0-windows\Lab3WinForms.exe
+D:\Work\C#\TI\Lab3\LAB3\bin\Debug\net8.0-windows\Lab3WinForms.deps.json
+D:\Work\C#\TI\Lab3\LAB3\bin\Debug\net8.0-windows\Lab3WinForms.runtimeconfig.json
+D:\Work\C#\TI\Lab3\LAB3\bin\Debug\net8.0-windows\Lab3WinForms.dll
+D:\Work\C#\TI\Lab3\LAB3\bin\Debug\net8.0-windows\Lab3WinForms.pdb
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.MainForm.resources
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.csproj.GenerateResource.cache
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.AssemblyInfoInputs.cache
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.AssemblyInfo.cs
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.csproj.CoreCompileInputs.cache
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.dll
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\refint\Lab3WinForms.dll
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.pdb
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\Lab3WinForms.genruntimeconfig.cache
+D:\Work\C#\TI\Lab3\LAB3\obj\Debug\net8.0-windows\ref\Lab3WinForms.dll
